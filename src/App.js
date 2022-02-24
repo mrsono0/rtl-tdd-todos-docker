@@ -5,7 +5,7 @@ import TodoApp from "./TodoApp";
 function App() {
     return (
         <div className="App">
-            <h2>jenkins with github</h2>
+            <h2>jenkins with github branch main</h2>
             <TodoApp />
         </div>
     );
